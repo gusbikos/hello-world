@@ -1,2 +1,2 @@
 # hello-world
-Hello world I am happy to be a member of the git-hub community!
+Hello world I am happy to be a member of the Github community!
